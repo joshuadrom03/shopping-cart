@@ -1,0 +1,17 @@
+.nav-bar{
+    display: flex;
+    gap: 10vh;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(120 113 108);
+    padding: 5px;
+}
+
+
+.navigate{
+    color:rgb(23 23 23); 
+}
+
+.navigate:hover{
+    color: aliceblue;
+}
