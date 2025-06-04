@@ -1,8 +1,8 @@
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import Navbar from "./Navigation";
-import HomePage from "../HomePage";
-import Shopping from "../Shopping";
-import Cart from "../Cart";
+import HomePage from "../HomePage/HomePage";
+import Shopping from "../Shopping/Shopping";
+import Cart from "../Cart/Cart";
 import ErrorPage from "../ErrorPage";
 import Header from "../Header/Header";
 
